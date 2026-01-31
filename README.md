@@ -1,0 +1,98 @@
+# Boox Master Key
+
+**🌍 Languages / Idiomes:** [Català](README.md) | [English](README.english.md)
+
+---
+
+⚠️ **Repositori oficial**
+
+Aquest és l'únic repositori oficial de BooxConfig. Només descarrega l'aplicació des d'aquí o des de les releases verificades. Qualsevol fork o còpia pot contenir modificacions no autoritzades.
+
+---
+
+🔒 **Autor:** ktacrack  
+📄 **Llicència:** MIT License  
+🔗 **Official URL:** https://github.com/ktacrack/BooxConfig
+
+---
+
+## Característiques
+
+- ✅ Accés ràpid a configuració del sistema
+- ✅ Gestió d'aplicacions i permisos
+- ✅ Ajustos de pantalla i optimització
+- ✅ Configuració de connectivitat
+- ✅ Opcions d'emmagatzematge
+- ✅ Interfície senzilla i nativa
+
+## Instal·lació
+
+### Opció 1: Des de Releases
+1. Descarrega l'APK des de [Releases](https://github.com/ktacrack/BooxConfig/releases)
+2. Instal·la l'APK al teu dispositiu Boox
+3. Obre l'aplicació i selecciona l'opció desitjada
+
+### Opció 2: Compilar des del codi
+1. Clona el repositori
+git clone https://github.com/ktacrack/BooxConfig.git
+2. Obre el projecte amb Android Studio
+3. Compila i instal·la al teu dispositiu
+
+## Requisits
+- Dispositiu Boox amb Android
+- Android 5.0 (Lollipop) o superior
+- Permisos d'instal·lació d'aplicacions desconegudes (si s'instal·la manualment)
+
+## Captures de pantalla
+(Afegeix aquí les captures quan les tinguis)
+
+## Desenvolupament
+**Tecnologies utilitzades:**
+**Llenguatge:** Kotlin
+**SDK mínima:** Android 21 (Lollipop)
+**IDE recomanat:** Android Studio
+
+## Estructura del projecte:
+```
+Master Boox Key/
+├── app/
+│   └── src/
+│       └── main/
+│           ├── java/com/ktacrack/booxconfig/
+│           │   └── MainActivity.kt
+│           ├── res/
+│           │   ├── layout/
+│           │   │   ├── spinner_item.xml
+│           │   │   └── spinner_dropdown_item.xml
+│           │   ├── values/
+│           │   │   └── strings.xml
+│           │   ├── values-en/
+│           │   │   └── strings.xml
+│           │   ├── drawable/
+│           │   └── mipmap/
+│           └── AndroidManifest.xml
+├── LICENSE
+├── README.md
+└── README.english.md
+```
+
+## Contribucions
+Les contribucions són benvingudes! Si vols millorar l'aplicació:
+1. Fes un fork del repositori
+2. Crea una branca per a la teva funcionalitat (git checkout -b feature/nova-funcio)
+3. Fes commit dels canvis (git commit -m 'Afegeix nova funcionalitat')
+4. Puja els canvis (git push origin feature/nova-funcio)
+5. Obre un Pull Request
+   
+## Llicència
+Aquest projecte està llicenciat sota la llicència MIT. Consulta el fitxer LICENSE per més detalls.
+Ets lliure d'usar, modificar i distribuir aquest codi, sempre mantenint l'atribució a l'autor original.
+
+## Contacte
+- **Autor:** ktacrack
+- **GitHub:** @ktacrack
+
+## Agraïments
+Desenvolupat per facilitar l'accés a les opcions de configuració d'Android en dels dispositius Boox.
+
+### ⭐ Si t'ha estat útil, deixa una estrella al repositori!
