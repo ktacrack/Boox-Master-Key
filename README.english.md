@@ -99,7 +99,7 @@ You are free to use, modify and distribute this code, as long as you maintain at
 - **GitHub:** @ktacrack
 
 ## Acknowledgments
-Developed to facilitate access to Boox device configuration options.
+Developed to facilitate access to Android configuration in Boox devices.
 
 ### ⭐ If you find it useful, leave a star on the repository!
 ```bash
