@@ -12,7 +12,7 @@ This is the only official BooxConfig repository. Only download the app from here
 
 🔒 **Author:** ktacrack  
 📄 **License:** MIT License  
-🔗 **Official URL:** https://github.com/ktacrack/Boox-Master-Key
+🔗 **Official URL:** https://github.com/ktacrack/BooxMasterKey
 
 ---
 
