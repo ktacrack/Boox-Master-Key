@@ -79,7 +79,7 @@ Master Boox Key/
 │           └── AndroidManifest.xml
 ├── LICENSE
 ├── README.md
-└── README.ca.md
+└── README.english.md
 ```
 
 ## Contributing
