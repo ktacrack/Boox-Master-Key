@@ -32,13 +32,13 @@ Android app for quick access to Boox device configuration options. Provides dire
 ## Installation
 
 ### Option 1: From Releases
-1. Download the APK from [Releases](https://github.com/ktacrack/Boox-Master-Key/releases)
+1. Download the APK from [Releases](https://github.com/ktacrack/BooxMasterKey/releases)
 2. Install the APK on your Boox device
 3. Open the app and select the desired option
 
 ### Option 2: Build from source
 1. Clone the repository
-git clone https://github.com/ktacrack/Boox-Master-Key.git
+git clone https://github.com/ktacrack/BooxMasterKey.git
 2. Open the project with Android Studio
 3. Build and install on your device
 
@@ -56,9 +56,7 @@ git clone https://github.com/ktacrack/Boox-Master-Key.git
 **Minimum SDK:** Android 21 (Lollipop)
 **Recommended IDE:** Android Studio
 
-
 ## Project structure:
-
 ```
 Master Boox Key/
 ├── app/
