@@ -1,6 +1,6 @@
 # Boox Master Key
 
-**🌍 Languages / Idiomes:** [Català](README.md) | [English](README.english.md)
+**🌍 Languages / Idiomes:** [Català](README.md) | [English](README.en.md)
 
 ---
 
@@ -60,11 +60,11 @@ git clone https://github.com/ktacrack/BooxMasterKey.git
 
 ## Project structure:
 ```
-Master Boox Key/
+MasterBooxKey/
 ├── app/
 │   └── src/
 │       └── main/
-│           ├── java/com/ktacrack/booxconfig/
+│           ├── java/com/boox/masterkey/
 │           │   └── MainActivity.kt
 │           ├── res/
 │           │   ├── layout/
@@ -82,7 +82,7 @@ Master Boox Key/
 │   └── Pantalla angles.png
 ├── LICENSE
 ├── README.md
-└── README.english.md
+└── README.en.md
 ```
 
 ## Contributing
