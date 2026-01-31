@@ -44,7 +44,9 @@ git clone https://github.com/ktacrack/BooxMasterKey.git
 - Permisos d'instal·lació d'aplicacions desconegudes (si s'instal·la manualment)
 
 ## Captures de pantalla
-(Afegeix aquí les captures quan les tinguis)
+<p>
+  <img src="images/Pantalla%20catala.png" width="300">
+</p>
 
 ## Desenvolupament
 **Tecnologies utilitzades:**
@@ -71,6 +73,9 @@ Master Boox Key/
 │           │   ├── drawable/
 │           │   └── mipmap/
 │           └── AndroidManifest.xml
+├── images/
+│   ├── Pantalla catala.png
+│   └── Pantalla angles.png
 ├── LICENSE
 ├── README.md
 └── README.english.md
