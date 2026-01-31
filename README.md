@@ -1,5 +1,11 @@
 # Boox Master Key
 
+![Release](https://img.shields.io/github/v/release/ktacrack/BooxMasterKey)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Downloads](https://img.shields.io/github/downloads/ktacrack/BooxMasterKey/total)
+![Platform](https://img.shields.io/badge/platform-Android-green)
+![Language](https://img.shields.io/badge/language-Kotlin-purple)
+
 **🌍 Languages / Idiomes:** [Català](README.md) | [English](README.en.md)
 
 ---
