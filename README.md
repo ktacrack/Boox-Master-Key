@@ -12,7 +12,7 @@
 
 ⚠️ **Repositori oficial**
 
-Aquest és l'únic repositori oficial de BooxConfig. Només descarrega l'aplicació des d'aquí o des de les releases verificades. Qualsevol fork o còpia pot contenir modificacions no autoritzades.
+Aquest és l'únic repositori oficial de Boox Master Key. Només descarrega l'aplicació des d'aquí o des de les releases verificades. Qualsevol fork o còpia pot contenir modificacions no autoritzades.
 
 ---
 
