@@ -34,6 +34,11 @@ Android app for quick access to Boox device configuration options. Provides dire
 - ✅ Connectivity configuration
 - ✅ Storage options
 - ✅ Simple and native interface
+- 🌍 Supported languages:
+  - Català
+  - English
+  - Español
+
 
 ## Installation
 
