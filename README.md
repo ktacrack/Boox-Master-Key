@@ -44,7 +44,11 @@ Aquest és l'únic repositori oficial de Boox Master Key. Només descarrega l'ap
 
 ### Opció 2: Compilar des del codi
 1. Clona el repositori
+```
+bash
 git clone https://github.com/ktacrack/BooxMasterKey.git
+cd booxmasterkey
+```
 2. Obre el projecte amb Android Studio
 3. Compila i instal·la al teu dispositiu
 
