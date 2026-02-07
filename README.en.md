@@ -49,7 +49,11 @@ Android app for quick access to Boox device configuration options. Provides dire
 
 ### Option 2: Build from source
 1. Clone the repository
+```
+bash
 git clone https://github.com/ktacrack/BooxMasterKey.git
+cd booxmasterkey
+```
 2. Open the project with Android Studio
 3. Build and install on your device
 
